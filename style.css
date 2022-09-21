@@ -21,9 +21,11 @@ main {
   position: absolute;
   margin-top: -90px;
   width: 400px;
-  height: 100vh;
+  height: 114vh;
   background: url(fundo.jpg);
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .benca {
   font-family: "Poppins", sans-serif;
