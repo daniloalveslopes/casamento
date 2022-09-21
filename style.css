@@ -135,4 +135,9 @@ button {
   .local {
     padding: 0 55px;
   }
+  .frase {
+    font-size: 30px;
+    position: absolute;
+    bottom: 10px;
+  }
 }
