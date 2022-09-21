@@ -145,4 +145,8 @@ button {
     position: absolute;
     bottom: 10px;
   }
+  .infos {
+    display: flex;
+    flex-direction: column;
+  }
 }
