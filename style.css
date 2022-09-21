@@ -125,17 +125,19 @@ button {
     transform: scale(1.1);
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 350px) {
   .benca {
     font-size: 13px;
   }
   .pais {
-    padding: 0 40px;
+    padding: 0 55px;
   }
   .local {
-    padding: 0 45px;
+    padding: 0 55px;
   }
   .frase {
+    margin-top: 13px;
+    margin-left: 25px;
     font-size: 24px;
   }
 }
