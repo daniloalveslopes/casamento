@@ -18,6 +18,7 @@ body {
   height: 100vh;
 }
 main {
+  position: absolute;
   margin-top: -90px;
   width: 400px;
   height: 100vh;
@@ -86,6 +87,7 @@ main {
   justify-content: center;
 }
 .marcar a button {
+  margin-top: 9px;
   animation: none;
   width: 200px;
 }
@@ -110,7 +112,7 @@ button {
 .frase {
   font-size: 30px;
   position: relative;
-  top: -25px;
+  top: 250px;
 }
 
 @keyframes butao {
