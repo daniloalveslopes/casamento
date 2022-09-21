@@ -113,8 +113,8 @@ button {
 }
 .frase {
   font-size: 30px;
-  position: relative;
-  top: 250px;
+  position: absolute;
+  bottom: 20px;
 }
 
 @keyframes butao {
@@ -134,10 +134,5 @@ button {
   }
   .local {
     padding: 0 55px;
-  }
-  .frase {
-    margin-top: 13px;
-    margin-left: 25px;
-    font-size: 24px;
   }
 }
