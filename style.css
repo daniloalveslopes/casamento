@@ -22,6 +22,7 @@ main {
   width: 400px;
   height: 100vh;
   background: url(fundo.jpg);
+  background-repeat: no-repeat;
 }
 .benca {
   font-family: "Poppins", sans-serif;
