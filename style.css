@@ -126,6 +126,11 @@ button {
   }
 }
 @media (max-width: 350px) {
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   .benca {
     font-size: 13px;
   }
